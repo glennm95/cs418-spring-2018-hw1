@@ -1,0 +1,55 @@
+I|1967|Green Bay Packers$(1, 1–0)|35–10|Kansas City Chiefs$(1, 0–1)|Los Angeles Memorial Coliseum
+II|1968|Green Bay Packers$(2, 2–0)|33–14|Oakland Raiders$(1, 0–1)|Miami Orange Bowl
+III|1969|New York Jets$(1, 1–0)|16–7|Baltimore Colts$(1, 0–1)|Miami Orange Bowl (2)
+IV|1970|Kansas City Chiefs$(2, 1–1)|23–7|Minnesota Vikings$(1, 0–1)|Tulane Stadium
+V|1971|Baltimore Colts$(2, 1–1)|16–13|Dallas Cowboys$(1, 0–1)|Miami Orange Bowl (3)
+VI|1972|Dallas Cowboys$(2, 1–1)|24–3|Miami Dolphins$(1, 0–1)|Tulane Stadium (2)
+VII|1973|Miami Dolphins$(2, 1–1)|14–7|Washington Redskins$(1, 0–1)|Los Angeles Memorial Coliseum (2)
+VIII|1974|Miami Dolphins$(3, 2–1)|24–7|Minnesota Vikings$(2, 0–2)|Rice Stadium
+IX|1975|Pittsburgh Steelers$(1, 1–0)|16–6|Minnesota Vikings$(3, 0–3)|Tulane Stadium (3)
+X|1976|Pittsburgh Steelers$(2, 2–0)|21–17|Dallas Cowboys$(3, 1–2)|Miami Orange Bowl (4)
+XI|1977|Oakland Raiders$(2, 1–1)|32–14|Minnesota Vikings$(4, 0–4)|Rose Bowl
+XII|1978|Dallas Cowboys$(4, 2–2)|27–10|Denver Broncos$(1, 0–1)|Louisiana Superdome
+XIII|1979|Pittsburgh Steelers$(3, 3–0)|35–31|Dallas Cowboys$(5, 2–3)|Miami Orange Bowl (5)
+XIV|1980|Pittsburgh Steelers$(4, 4–0)|31–19|Los Angeles Rams$(1, 0–1)|Rose Bowl (2)
+XV|1981|Oakland Raiders$(3, 2–1)|27–10|Philadelphia Eagles$(1, 0–1)|Louisiana Superdome (2)
+XVI|1982|San Francisco 49ers$(1, 1–0)|26–21|Cincinnati Bengals$(1, 0–1)|Pontiac Silverdome
+XVII|1983|Washington Redskins$(2, 1–1)|27–17|Miami Dolphins$(4, 2–2)|Rose Bowl (3)
+XVIII|1984|Los Angeles Raiders$(4, 3–1)|38–9|Washington Redskins$(3, 1–2)|Tampa Stadium
+XIX|1985|San Francisco 49ers$(2, 2–0)|38–16|Miami Dolphins$(5, 2–3)|Stanford Stadium
+XX|1986|Chicago Bears$(1, 1–0)|46–10|New England Patriots$(1, 0–1)|Louisiana Superdome (3)
+XXI|1987|New York Giants$(1, 1–0)|39–20|Denver Broncos$(2, 0–2)|Rose Bowl (4)
+XXII|1988|Washington Redskins$(4, 2–2)|42–10|Denver Broncos$(3, 0–3)|San Diego–Jack Murphy Stadium
+XXIII|1989|San Francisco 49ers$(3, 3–0)|20–16|Cincinnati Bengals$(2, 0–2)|Joe Robbie Stadium
+XXIV|1990|San Francisco 49ers$(4, 4–0)|55–10|Denver Broncos$(4, 0–4)|Louisiana Superdome (4)
+XXV|1991|New York Giants$(2, 2–0)|20–19|Buffalo Bills$(1, 0–1)|Tampa Stadium (2)
+XXVI|1992|Washington Redskins$(5, 3–2)|37–24|Buffalo Bills$(2, 0–2)|Metrodome
+XXVII|1993|Dallas Cowboys$(6, 3–3)|52–17|Buffalo Bills$(3, 0–3)|Rose Bowl (5)
+XXVIII|1994|Dallas Cowboys$(7, 4–3)|30–13|Buffalo Bills$(4, 0–4)|Georgia Dome
+XXIX|1995|San Francisco 49ers$(5, 5–0)|49–26|San Diego Chargers$(1, 0–1)|Joe Robbie Stadium (2)
+XXX|1996|Dallas Cowboys$(8, 5–3)|27–17|Pittsburgh Steelers$(5, 4–1)|Sun Devil Stadium
+XXXI|1997|Green Bay Packers$(3, 3–0)|35–21|New England Patriots$(2, 0–2)|Louisiana Superdome (5)
+XXXII|1998|Denver Broncos$(5, 1–4)|31–24|Green Bay Packers$(4, 3–1)|Qualcomm Stadium (2)
+XXXIII|1999|Denver Broncos$(6, 2–4)|34–19|Atlanta Falcons$(1, 0–1)|Pro Player Stadium (3)
+XXXIV|2000|St. Louis Rams$(2, 1–1)|23–16|Tennessee Titans$(1, 0–1)|Georgia Dome (2)
+XXXV|2001|Baltimore Ravens$(1, 1–0)|34–7|New York Giants$(3, 2–1)|Raymond James Stadium
+XXXVI|2002|New England Patriots$(3, 1–2)|20–17|St. Louis Rams$(3, 1–2)|Louisiana Superdome (6)
+XXXVII|2003|Tampa Bay Buccaneers$(1, 1–0)|48–21|Oakland Raiders$(5, 3–2)|Qualcomm Stadium (3)
+XXXVIII|2004|New England Patriots$(4, 2–2)|32–29|Carolina Panthers$(1, 0–1)|Reliant Stadium
+XXXIX|2005|New England Patriots$(5, 3–2)|24–21|Philadelphia Eagles$(2, 0–2)|Alltel Stadium
+XL|2006|Pittsburgh Steelers$(6, 5–1)|21–10|Seattle Seahawks$(1, 0–1)|Ford Field
+XLI|2007|Indianapolis Colts$(3, 2–1)|29–17|Chicago Bears$(2, 1–1)|Dolphin Stadium (4)
+XLII|2008|New York Giants$(4, 3–1)|17–14|New England Patriots$(6, 3–3)|University of Phoenix Stadium
+XLIII|2009|Pittsburgh Steelers$(7, 6–1)|27–23|Arizona Cardinals$(1, 0–1)|Raymond James Stadium (2)
+XLIV|2010|New Orleans Saints$(1, 1–0)|31–17|Indianapolis Colts$(4, 2–2)|Sun Life Stadium (5)
+XLV|2011|Green Bay Packers$(5, 4–1)|31–25|Pittsburgh Steelers$(8, 6–2)|Cowboys Stadium
+XLVI|2012|New York Giants$(5, 4–1)|21–17|New England Patriots$(7, 3–4)|Lucas Oil Stadium
+XLVII|2013|Baltimore Ravens$(2, 2–0)|34–31|San Francisco 49ers$(6, 5–1)|Mercedes-Benz Superdome (7)
+XLVIII|2014|Seattle Seahawks$(2, 1–1)|43–8|Denver Broncos$(7, 2–5)|MetLife Stadium
+XLIX|2015|New England Patriots$(8, 4–4)|28–24|Seattle Seahawks$(3, 1–2)|University of Phoenix Stadium (2)
+50|2016|Denver Broncos$(8, 3–5)|24–10|Carolina Panthers$(2, 0–2)|Levi's Stadium
+LI|2017|New England Patriots$(9, 5–4)|34–28 (OT)|Atlanta Falcons$(2, 0–2)|NRG Stadium (2)
+LII|2018|Philadelphia Eagles$(3, 1–2)|41–33|New England Patriots$(10, 5–5)|U.S. Bank Stadium
+LIII|2019|New England Patriots$(11, 6–5)|13–3|Los Angeles Rams$(4, 1–3)|Mercedes-Benz Stadium
+LIV|2020|Kansas City Chiefs$(3, 2–1)|31–20|San Francisco 49ers$(7, 5–2)|Hard Rock Stadium (6)
+LV|2021|Tampa Bay Buccaneers$(2, 2–0)|31–9|Kansas City Chiefs$(4, 2–2)|Raymond James Stadium (3)
